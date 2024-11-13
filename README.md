@@ -32,9 +32,7 @@ To run this project, you'll need to have Python installed along with the followi
 You can install these dependencies using pip:
 #### pip install numpy matplotlib keras tensorflow scikit-learn pandas opencv-python
 
-Usage
-Clone this repository:
-#### git clone https://github.com/yourusername/traffic-sign-detection.git
+
 
 Navigate to the project directory:
 #### cd traffic-sign-detection
